@@ -1,17 +1,18 @@
---index-url https://download.pytorch.org/whl/cpu
+--extra-index-url https://download.pytorch.org/whl/cpu
+jupyter
 mlflow 
 scikit-learn
 xgboost
 ray 
 starlette 
 transformers
-ray[serve]
-torch 
-torchvision 
-torchaudio
-intel-extension-for-pytorch
 pandas 
 seaborn 
 wordcloud
 nltk
 dvc 
+ray[serve]
+torch 
+torchvision 
+torchaudio
+intel-extension-for-pytorch

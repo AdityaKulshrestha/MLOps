@@ -1,2 +1,4 @@
 mlops_venv
-ML/ipynb_checkpoints 
+ML/.ipynb_checkpoints/
+ML/mlartifacts
+ML/mlruns 
