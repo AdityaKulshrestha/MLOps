@@ -2,3 +2,6 @@ mlops_venv
 ML/.ipynb_checkpoints/
 ML/mlartifacts
 ML/mlruns 
+ML/.dvc/
+ML/.dvcignore
+
