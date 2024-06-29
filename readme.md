@@ -63,24 +63,24 @@ To get started with the Hands-on MLOps Curriculum, follow these steps:
 ## Resources 
 
 ### Machine Learning & NLP
-    - [Distributed computing with Ray](https://docs.ray.io/): Ray is a framework for building and running distributed applications at scale. It provides simple APIs for parallel and distributed computing, making it easy to scale and manage machine learning workflows efficiently.
+- [Distributed computing with Ray](https://docs.ray.io/): Ray is a framework for building and running distributed applications at scale. It provides simple APIs for parallel and distributed computing, making it easy to scale and manage machine learning workflows efficiently.
 
-    - [Experiment tracking and model packaging with MLflow](https://mlflow.org/): MLflow is an open-source platform for managing the end-to-end machine learning lifecycle. It provides tools for tracking experiments, packaging code into reproducible runs, and managing models' lifecycle, enabling collaboration and reproducibility in machine learning projects.
+- [Experiment tracking and model packaging with MLflow](https://mlflow.org/): MLflow is an open-source platform for managing the end-to-end machine learning lifecycle. It provides tools for tracking experiments, packaging code into reproducible runs, and managing models' lifecycle, enabling collaboration and reproducibility in machine learning projects.
 
-    - [Hyperparameter optimization with Optuna](https://optuna.org/): Optuna is an automatic hyperparameter optimization framework. It streamlines the process of tuning machine learning model parameters to achieve optimal performance, using techniques such as Bayesian optimization and pruning algorithms.
+- [Hyperparameter optimization with Optuna](https://optuna.org/): Optuna is an automatic hyperparameter optimization framework. It streamlines the process of tuning machine learning model parameters to achieve optimal performance, using techniques such as Bayesian optimization and pruning algorithms.
 
-    - [Versioning datasets and models with DVC](https://dvc.org/): Data Version Control (DVC) is an open-source tool for managing datasets and machine learning models. It provides version control, data provenance tracking, and experiment reproducibility, enhancing collaboration and maintaining consistency across machine learning projects.
+- [Versioning datasets and models with DVC](https://dvc.org/): Data Version Control (DVC) is an open-source tool for managing datasets and machine learning models. It provides version control, data provenance tracking, and experiment reproducibility, enhancing collaboration and maintaining consistency across machine learning projects.
 
-    - [Model interpretability using LIME](https://github.com/marcotcr/lime): LIME (Local Interpretable Model-agnostic Explanations) is a library for explaining the predictions of machine learning models. It helps understand how models make decisions by generating locally faithful explanations, aiding model interpretability and trust.
+- [Model interpretability using LIME](https://github.com/marcotcr/lime): LIME (Local Interpretable Model-agnostic Explanations) is a library for explaining the predictions of machine learning models. It helps understand how models make decisions by generating locally faithful explanations, aiding model interpretability and trust.
 
 
-    - [AutoML](https://en.wikipedia.org/wiki/Automated_machine_learning): Automated Machine Learning (AutoML) refers to the process of automating the end-to-end process of applying machine learning to real-world problems. Various tools and libraries exist for AutoML, such as [Auto-sklearn](https://automl.github.io/auto-sklearn/) and [TPOT](http://epistasislab.github.io/tpot/).
+- [AutoML](https://en.wikipedia.org/wiki/Automated_machine_learning): Automated Machine Learning (AutoML) refers to the process of automating the end-to-end process of applying machine learning to real-world problems. Various tools and libraries exist for AutoML, such as [Auto-sklearn](https://automl.github.io/auto-sklearn/) and [TPOT](http://epistasislab.github.io/tpot/).
 
-    - [Transformers Interpretable](https://github.com/cdpierse/transformers_interpretable): This library focuses on providing interpretability tools for transformer-based models, allowing for better understanding of model predictions and behavior.
+- [Transformers Interpretable](https://github.com/cdpierse/transformers_interpretable): This library focuses on providing interpretability tools for transformer-based models, allowing for better understanding of model predictions and behavior.
 
-    - [Feast (Feature Selection)](https://docs.feast.dev/): Feast is an open-source feature store for machine learning. While it primarily serves as a feature store, it also provides utilities for feature selection and management.
+- [Feast (Feature Selection)](https://docs.feast.dev/): Feast is an open-source feature store for machine learning. While it primarily serves as a feature store, it also provides utilities for feature selection and management.
 
-    - [Evidently](https://github.com/evidentlyai/evidently): Evidently is a library for explaining machine learning models and monitoring model performance over time. It provides tools for model interpretation, fairness assessment, and drift detection.
+- [Evidently](https://github.com/evidentlyai/evidently): Evidently is a library for explaining machine learning models and monitoring model performance over time. It provides tools for model interpretation, fairness assessment, and drift detection.
 
 ### Computer Vision
 - [Intel OpenVINO Toolkit](https://www.intel.com/content/www/us/en/developer/tools/openvino-toolkit/overview.html): The Intel OpenVINO Toolkit (Open Visual Inference and Neural Network Optimization) is a comprehensive toolkit for deploying AI and computer vision applications at the edge. It optimizes models trained in popular frameworks like TensorFlow, PyTorch, and ONNX for efficient execution on Intel hardware, including CPUs, GPUs, and VPUs (Vision Processing Units).
